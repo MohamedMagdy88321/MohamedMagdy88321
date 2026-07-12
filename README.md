@@ -69,40 +69,31 @@
 # 🌍 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/mohamed-magdy-25487423a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+<a href="https://www.facebook.com/mohamedmagdy23654897" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<a href="https://www.instagram.com/accounts/edit/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/20YOUR_PHONE_NUMBER" target="_blank">
+<a href="01040977614" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE/" target="_blank">
+<a href="[https://leetcode.com/u/YOUR_LEETCODE](https://leetcode.com/problemset/?difficulty=EASY&page=1&search=add)/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES" target="_blank">
+<a href="https://codeforces.com/profile/Mohamed2Magdy5" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mohamedmagdy88321@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
